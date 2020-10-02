@@ -1,27 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo, twitter_handle, email
--->
-
-
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -35,19 +11,19 @@
 <br />
 <p align="left">
 
-  <h1 align="left">IMDb Sentiment Analysis RNN</h1>
+  <h1 align="left">KNN Classification</h1>
 
   <p align="left">
-    Sentiment Analysis model on IMDb Reviews Dataset using an RNN.
+    Classification model using K-Nearest Neighbours algorithm.
     <br />
-    <a href="https://github.com/soundarzozm/IMDb-Sentiment_Analysis"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/soundarzozm/KNN-Algorithm-For-Classification"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/soundarzozm/IMDb-Sentiment_Analysis">View Demo</a>
+    <a href="https://github.com/soundarzozm/KNN-Algorithm-For-Classification">View Demo</a>
     ·
-    <a href="https://github.com/soundarzozm/IMDb-Sentiment_Analysis/issues">Report Bug</a>
+    <a href="https://github.com/soundarzozm/KNN-Algorithm-For-Classification/issues">Report Bug</a>
     ·
-    <a href="https://github.com/soundarzozm/IMDb-Sentiment_Analysis/issues">Request Feature</a>
+    <a href="https://github.com/soundarzozm/KNN-Algorithm-For-Classification/issues">Request Feature</a>
   </p>
 </p>
 
@@ -73,8 +49,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a **Deep Learning Natural Language Processing** project using [IMDb Reviews Dataset](https://www.dropbox.com/s/bjk9tydkqrza8p8/IMDb_Reviews.csv?dl=1).<br>
-This project consists of *data processing*, *model definition* and *model training and evaluation* using tensorflow. 
+Test
 
 
 ### Built With
@@ -117,7 +92,7 @@ It is an iterative process until required performance is obtained.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This model can be used to analyse the sentiment in a given piece of text. This has its various applications such as:<br>
+Test:<br>
 * Spam Classification
 * Business Analytics
 * Social Monitoring
@@ -128,7 +103,7 @@ This model can be used to analyse the sentiment in a given piece of text. This h
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/soundarzozm/IMDb-Sentiment_Analysis/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/soundarzozm/KNN-Algorithm-For-Classification/issues) for a list of proposed features (and known issues).
 
 
 
@@ -158,14 +133,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Soundar Murugan - [@soundarzozm](https://twitter.com/soundarzozm)<br>
 E-Mail - [soundarmurugan91@gmail.com](soundarmurugan91@gmail.com)
 
-Project Link: [https://github.com/soundarzozm/IMDb-Sentiment_Analysis](https://github.com/soundarzozm/IMDb-Sentiment_Analysis)
+Project Link: [https://github.com/soundarzozm/KNN-Algorithm-For-Classification](https://github.com/soundarzozm/KNN-Algorithm-For-Classification)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Andrew Maas](http://ai.stanford.edu/~amaas/) for providing the dataset for public use.
+* [Soundar Murugan](https://github.com/soundarzozm/) for working on the README.md file.
 
 
 
@@ -173,15 +148,15 @@ Project Link: [https://github.com/soundarzozm/IMDb-Sentiment_Analysis](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/soundarzozm/IMDb-Sentiment_Analysis.svg?style=flat-square
-[contributors-url]: https://github.com/soundarzozm/IMDb-Sentiment_Analysis/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/soundarzozm/IMDb-Sentiment_Analysis.svg?style=flat-square
-[forks-url]: https://github.com/soundarzozm/IMDb-Sentiment_Analysis/network/members
-[stars-shield]: https://img.shields.io/github/stars/soundarzozm/IMDb-Sentiment_Analysis.svg?style=flat-square
-[stars-url]: https://github.com/soundarzozm/IMDb-Sentiment_Analysis/stargazers
-[issues-shield]: https://img.shields.io/github/issues/soundarzozm/IMDb-Sentiment_Analysis.svg?style=flat-square
-[issues-url]: https://github.com/soundarzozm/IMDb-Sentiment_Analysis/issues
-[license-shield]: https://img.shields.io/github/license/soundarzozm/IMDb-Sentiment_Analysis.svg?style=flat-square
-[license-url]: https://github.com/soundarzozm/IMDb-Sentiment_Analysis/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/soundarzozm/KNN-Algorithm-For-Classification.svg?style=flat-square
+[contributors-url]: https://github.com/soundarzozm/KNN-Algorithm-For-Classification/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/soundarzozm/KNN-Algorithm-For-Classification.svg?style=flat-square
+[forks-url]: https://github.com/soundarzozm/KNN-Algorithm-For-Classification/network/members
+[stars-shield]: https://img.shields.io/github/stars/soundarzozm/KNN-Algorithm-For-Classification.svg?style=flat-square
+[stars-url]: https://github.com/soundarzozm/KNN-Algorithm-For-Classification/stargazers
+[issues-shield]: https://img.shields.io/github/issues/soundarzozm/KNN-Algorithm-For-Classification.svg?style=flat-square
+[issues-url]: https://github.com/soundarzozm/KNN-Algorithm-For-Classification/issues
+[license-shield]: https://img.shields.io/github/license/soundarzozm/KNN-Algorithm-For-Classification.svg?style=flat-square
+[license-url]: https://github.com/soundarzozm/KNN-Algorithm-For-Classification/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/soundar-murugan
